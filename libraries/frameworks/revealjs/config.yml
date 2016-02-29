@@ -1,0 +1,4 @@
+revealjs:
+  theme: simple
+  transition: concave
+  center: "true"
