@@ -1,3 +1,5 @@
 Reveal.initialize({
-    hideAddressBar:True
+    hideAddressBar:True,
+    width: window.innerWidth,
+    height: window.innerHeight
 })

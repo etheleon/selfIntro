@@ -11,7 +11,6 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-
 ## Who am I
 
 ##### Wesley GOI, SCELSE PhD Student
